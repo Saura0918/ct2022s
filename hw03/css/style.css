@@ -1,0 +1,11 @@
+.img_texture{
+    display: flex;
+}
+
+.handwrite_name{
+    margin-top: 10px;
+}
+
+.hyperlink, .a{
+    font-size: 26px;
+}
